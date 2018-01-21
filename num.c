@@ -2,7 +2,7 @@
 int main()
 {
 int a;
-scanf("%D", &a);
+scanf("%d", &a);
 if(a>=1||a<=9)
 {
 	printf("yes");
